@@ -2,5 +2,5 @@ voila
 fastai>=2
 pillow==9.3.0
 packaging
-ipywidgets==7.7.2
+ipywidgets==7.6.5
 fastbook
