@@ -1,0 +1,4 @@
+#for windows
+import pathlib
+temp = pathlib.PosixPath
+pathlib.PosixPath = pathlib.WindowsPath
